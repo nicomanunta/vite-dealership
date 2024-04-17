@@ -1,4 +1,4 @@
-# Front-end per Utenti - Sito Web Concessionaria Auto
+# Front-end per Utenti di una Concessionaria Automobili 
 
 Questo progetto è il front-end sviluppato per il sito web di una concessionaria che vende auto nuove e usate.
 
