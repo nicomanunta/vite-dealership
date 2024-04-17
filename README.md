@@ -6,7 +6,7 @@ Questo progetto è il front-end sviluppato per il sito web di una concessionaria
 
 - **JavaScript**
 - **Vue.js**
-- **Vite.js**
+- **Vite**
 - **SCSS**
 - **HTML**
 
