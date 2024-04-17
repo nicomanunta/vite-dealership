@@ -1,7 +1,21 @@
-# Vue 3 + Vite
+# Front-end per Utenti - Sito Web Concessionaria Auto
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Questo progetto è il front-end sviluppato per il sito web di una concessionaria che vende auto nuove e usate.
 
-## Recommended IDE Setup
+## Tecnologie Utilizzate
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **JavaScript**
+- **Vue.js**
+- **Vite.js**
+- **SCSS**
+- **HTML**
+
+## Funzionalità Principali
+
+- **Visualizzazione dell'Inventario**: Gli utenti possono esplorare tutte le auto disponibili sul sito, con opzioni per filtrare per tipo di veicolo, prezzo, anno di produzione e altro ancora.
+- **Dettagli dell'Auto**: Gli utenti possono visualizzare dettagli completi su ciascun veicolo, inclusi immagini, specifiche tecniche e informazioni sulla disponibilità.
+- **Filtraggio Avanzato**: Funzionalità di filtraggio avanzato che consente agli utenti di trovare rapidamente le auto desiderate in base ai propri criteri.
+
+
+
+
